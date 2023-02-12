@@ -44,15 +44,26 @@ Clone this repo in your system folder : https://github.com/pathak-vikas/TruffleH
 Install Node.js for your platform (MacOS, Windows or Linux) : https://nodejs.org/en/
 
 * To Fire up the backend server follow up these steps:
-     # go to project folder path : "TruffleHealthBackend\" 
-     # open cmd or terminal in folder path 
-     # run "npm install" command
-     # run "npm start" command 
-     # keep this terminal open
-     # you can use Postman to send requests to the server, sample data.json can be found in test folder of this project
-     # for running test file (in tests folder) kill the above terminal ( Press cntrol + c in terminal screen)
-     # open terminal in folder path
-     # run "npm run test" command
-     # feel free include your tests
+
+     1 go to project folder path : "TruffleHealthBackend\"
+     
+     2 open cmd or terminal in folder path
+     
+     3 run "npm install" command
+     
+     4 run "npm start" command 
+     
+     5 keep this terminal open
+     
+     6 you can use Postman to send requests to the server, sample data.json can be found in test folder of this project
+     
+     7 for running test file (in tests folder) kill the above terminal ( Press cntrol + c in terminal screen)
+     
+     8 open terminal in folder path
+     
+     9 run "npm run test" command
+     
+     10 feel free include your tests
+     
 
 
