@@ -1,0 +1,28 @@
+{
+  "name": "trufflehealthbackend",
+  "version": "1.0.0",
+  "description": "\"truffle health backend assignment\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathak-vikas/TruffleHealthBackend.git"
+  },
+  "author": "Vikas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathak-vikas/TruffleHealthBackend/issues"
+  },
+  "homepage": "https://github.com/pathak-vikas/TruffleHealthBackend#readme",
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
