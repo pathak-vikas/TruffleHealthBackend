@@ -33,7 +33,7 @@ app.post('/items', (req, res) => {
 });
 
 
-const port = 3100;
+const port = process.env.PORT || 3000;
 module.exports=app.listen(port, () => {
   console.log(`Medical bill API listening at http://localhost:${port}`);
 });
